@@ -33,6 +33,7 @@ class AmazonEchoConfigurator extends IPSModule
         'A1NL4BVLQ4L3N3'   => ['name' => 'Echo Show'],
         'AWZZ5CVHX2CD'     => ['name' => 'Echo Show (2.Gen)'],
         'A4ZP7ZC4PI6TO'    => ['name' => 'Echo Show 5'],
+        'A1XWJRHALS1REP'   => ['name' => 'Echo Show 5 (2.Gen)'],
         'A1Z88NGR2BK6A2'   => ['name' => 'Echo Show 8'],
         'A30YDR2MK8HMRV'   => ['name' => 'Echo Dot (3.Gen with Clock)'],
         'A2H4LV5GIZ1JFT'   => ['name' => 'Echo Dot (4.Gen with Clock)'],
